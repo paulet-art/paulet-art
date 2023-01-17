@@ -23,7 +23,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am an aspiring Softaware Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+I am an aspiring Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 - :telescope: I’m a student currently pursuing Bsc Applied Mathematics and Computer Science.
  
 - :telescope: I aim to become a Software Engineer and contribute to software technologies.
