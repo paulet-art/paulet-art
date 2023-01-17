@@ -13,7 +13,7 @@
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=paulet-art&style=flat-square&color=blue" alt=""/>
   <h1>
-  JAMBO,HOW YOU DOIN'?
+  HEY THERE!
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -23,7 +23,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+I am an aspiring Softaware Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 - :telescope: I’m a student currently pursuing Bsc Applied Mathematics and Computer Science.
  
 - :telescope: I aim to become a Software Engineer and contribute to software technologies.
@@ -34,7 +34,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and Leetcode.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulet-wairagu-9883771b5/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-paulet-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulet-wairagu-9883771b5/)
 
 ---
 
