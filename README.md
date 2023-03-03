@@ -28,7 +28,7 @@ I am an aspiring Software Developer <img src="https://media.giphy.com/media/WUlp
 
 - :seedling: Data Science and Machine Learning enthusiast.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and Leetcode.
+- :zap: In my free time, I solve problems on Hacker rank.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-paulet-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulet-wairagu-9883771b5/)
 
