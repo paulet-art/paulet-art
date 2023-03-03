@@ -26,7 +26,7 @@ I am an aspiring Software Developer <img src="https://media.giphy.com/media/WUlp
 
 - :seedling: Exploring courses to skill up in my tech journey.
 
-- :seedling: Data Science and Machine Learning enthusiast.
+- :seedling: Data Engineering, Data Science and Machine Learning enthusiast.
 
 - :zap: In my free time, I solve problems on Hacker rank.
 
