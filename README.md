@@ -1,27 +1,25 @@
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/paulet-wairagu-9883771b5/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
- 
-  <a href="https://twitter.com/Paul3t_">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=paulet-art&style=flat-square&color=blue" alt=""/>
   <h1>
-  HEY THERE!
+  HEY THERE! <BR>  I'M PAULET
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="30px"/>
 </h1>
 </div>
 
-### :woman_technologist: About Me :
-- :telescope:  Bsc Applied Mathematics and Computer Science grad.
- 
-- :telescope: I aim to become a Software Engineer and contribute to software technologies.
+### :woman_technologist:
+### About Me
 
-- :seedling: Data Engineering, Data Science and Machine Learning enthusiast.
+👋 Hi there! I'm a passionate coder who loves turning ideas into reality through code. When I'm not coding, you can find me diving into the eerie world of horror fiction. Eager to explore new technologies, especially in data science, analytics, and machine learning. Let's connect and create something amazing!
+
+### Skills
+
+- **🔍 Data Detective**: Love digging through data to uncover hidden stories and insights.
+- **🏗️ Algorithm Architect**: Enjoy designing sleek algorithms to tackle tricky problems.
+- **🎶 Code Maestro**: Skilled in orchestrating clean, efficient code in Python, R, and SQL.
+- **📊 Stats Guru**: Passionate about applying statistical magic to make sense of numbers.
+- **🤖 Future ML Ninja**: On a quest to master the realms of machine learning and deep learning.
+
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-paulet-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulet-wairagu-9883771b5/)
 
