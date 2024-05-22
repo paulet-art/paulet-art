@@ -1,26 +1,16 @@
-</div>
-<div id="badges">
-  <img src="https://komarev.com/ghpvc/?username=paulet-art&style=flat-square&color=blue" alt=""/>
-  <h1>
-  HEY THERE! <BR>  I'M PAULET
-  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="30px"/>
-</h1>
-</div>
+# 👋 Welcome to My GitHub Profile
 
-### :woman_technologist:
-### About Me
+## About Me
 
-👋 Hi there! I'm a passionate coder who loves turning ideas into reality through code. When I'm not coding, you can find me diving into the eerie world of horror fiction. Eager to explore new technologies, especially in data science, analytics, and machine learning. Let's connect and create something amazing!
+Hello! I'm Paulet 🎓, a recent graduate with a Bachelor of Science in Mathematics and Computer Science. I have a passion for data and analytics engineering, and I enjoy working on projects that involve data analysis, machine learning, and software development.
 
-### Skills
+## Interests
 
-- **🔍 Data Detective**: Love digging through data to uncover hidden stories and insights.
-- **🏗️ Algorithm Architect**: Enjoy designing sleek algorithms to tackle tricky problems.
-- **🎶 Code Maestro**: Skilled in orchestrating clean, efficient code in Python, R, and SQL.
-- **📊 Stats Guru**: Passionate about applying statistical magic to make sense of numbers.
-- **🤖 Future ML Ninja**: On a quest to master the realms of machine learning and deep learning.
-
-
+- **Data Engineering:** 🛠️ Building robust data pipelines and architectures.
+- **Analytics:** 📊 Analyzing large datasets to extract meaningful insights.
+- **Machine Learning:** 🤖 Creating models to solve real-world problems.
+- **Software Development:** 💻 Writing clean, efficient, and maintainable code.
+---
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-paulet-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulet-wairagu-9883771b5/)
 
 ---
