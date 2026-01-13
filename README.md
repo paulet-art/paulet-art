@@ -30,10 +30,3 @@ I help **turn raw data into actionable insights**. I enjoy working on projects i
 [![Gmail Badge](https://img.shields.io/badge/-paulet.email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:wanjirupaulet@gmail.com)
 
 ---
-
-
-## 📊 GitHub Stats
-
-![Paulet's GitHub stats](https://github-readme-stats.vercel.app/api?username=pauletwanjiru&show_icons=true&hide_border=true&theme=radical)
-
----
