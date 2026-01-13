@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Paulet Wanjiru
 
-🎓 **B.Sc. Mathematics & Computer Science** | Aspiring Data Analyst | Insights-driven Problem Solver  
+🎓 **B.Sc. Mathematics & Computer Science** | Data Analyst | Insights-driven Problem Solver  
 
 I help **turn raw data into actionable insights**. I enjoy working on projects involving **data analysis, visualization, reporting, and business intelligence** to support informed decision-making.  
 
