@@ -27,7 +27,7 @@ I help **turn raw data into actionable insights**. I enjoy working on projects i
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-Paulet-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulet-wairagu-9883771b5/)  
-[![Gmail Badge](https://img.shields.io/badge/-paulet.email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:paulet.email@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-paulet.email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:wanjirupaulet@gmail.com)
 
 ---
 
