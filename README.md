@@ -1,33 +1,39 @@
-# 👋 Welcome to My GitHub Profile
+# 👋 Hi, I’m Paulet Wanjiru
 
-## About Me
+🎓 **B.Sc. Mathematics & Computer Science** | Aspiring Data Analyst | Insights-driven Problem Solver  
 
-Hello! I'm Paulet 🎓, a recent graduate with a Bachelor of Science in Mathematics and Computer Science. I have a passion for data and analytics engineering, and I enjoy working on projects that involve data analysis, machine learning, and software development.
-
-## Interests
-
-- **Data Engineering:** 🛠️ Building robust data pipelines and architectures.
-- **Analytics:** 📊 Analyzing large datasets to extract meaningful insights.
-- **Machine Learning:** 🤖 Creating models to solve real-world problems.
-- **Software Development:** 💻 Writing clean, efficient, and maintainable code.
----
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-paulet-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulet-wairagu-9883771b5/)
+I help **turn raw data into actionable insights**. I enjoy working on projects involving **data analysis, visualization, reporting, and business intelligence** to support informed decision-making.  
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+## 🛠️ Skills & Tools
+
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDb" alt="MongoDb" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"  title="Google Cloud" alt="Google Cloud" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"  title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQL" alt="SQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" title="Excel" alt="Excel" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" title="Power BI" alt="Power BI" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" title="Tableau" alt="Tableau" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
 ---
 
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-Paulet-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulet-wairagu-9883771b5/)  
+[![Gmail Badge](https://img.shields.io/badge/-paulet.email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:paulet.email@gmail.com)
+
+---
+
+
+## 📊 GitHub Stats
+
+![Paulet's GitHub stats](https://github-readme-stats.vercel.app/api?username=pauletwanjiru&show_icons=true&hide_border=true&theme=radical)
+
+---
