@@ -1,26 +1,35 @@
-
 <h1 align="center">
-  Hey, I'm [Your Name] 👋🇰🇪
+  [Your Name]
 </h1>
 
 <h3 align="center">
-  Data Analyst & Analytics Engineer · Nairobi, Kenya → Working Globally
+  Data Analyst & Analytics Engineer · Nairobi, Kenya 🇰🇪 · Open to Remote
 </h3>
 
 <p align="center">
   <em>I build the pipelines. I design the dashboards. I tell the story behind the numbers.</em>
 </p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 ---
 
-## 🧭 About Me
+## 👤 About Me
 
-- 🔭 Currently building **data & analytics portfolio projects**
-- 🌍 Based in **Nairobi, Kenya** — open to **remote roles globally**
-- 💡 I sit at the intersection of **data engineering** and **visual storytelling** — most engineers don't visualise, most analysts don't engineer. I do both.
-- 📊 I believe data is only powerful when people **understand** it — that's the gap I close
-- 🛠️ I work across the full data stack — from raw data ingestion to the dashboard on a decision-maker's screen
-- 🎯 Currently open to: **Data Analyst · Analytics Engineer · BI Analyst** roles
+Data Analyst and Analytics Engineer with hands-on experience across the full data stack — from data modelling and pipeline development to business intelligence dashboards and visual reporting.
+
+I specialise in transforming raw, complex data into clear, actionable insight. My background spans both engineering and visualisation, giving me an end-to-end perspective that most specialists lack.
+
+- 📍 Based in Nairobi, Kenya — available for **remote roles globally**
+- 🎯 Open to: **Data Analyst · Analytics Engineer · BI Analyst**
+- 📜 Certified: **IBM Data Engineering Professional**
 
 ---
 
@@ -39,32 +48,11 @@
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-**Certifications**
-
-![IBM](https://img.shields.io/badge/IBM%20Data%20Engineering-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 📊 Project One
-> Brief one-line description of what the project does and what problem it solves.
-
-`dbt` `Power BI` `SQL` `Python` · [View Project](#)
-
----
-
-### 📈 Project Two
-> Brief one-line description of what the project does and what problem it solves.
-
-`Tableau` `dbt` `SQL` `Python` · [View Project](#)
-
----
-
-### 🌍 Project Three
-> Brief one-line description of what the project does and what problem it solves.
-
-`Python` `Plotly` `Streamlit` · [Live App](#) · [View Project](#)
+> ⚙️ Portfolio projects currently in development — check back soon or connect on LinkedIn.
 
 ---
 
@@ -76,16 +64,5 @@
 </p>
 
 ---
-
-## 🤝 Let's Connect
-
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 > *"Data is only powerful when people understand it — that's the gap I close."*
