@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey, I'm [Your Name] 👋🇰🇪
+  Hey, I'm Paulet 👋🇰🇪
 </h1>
 
 <h3 align="center">
