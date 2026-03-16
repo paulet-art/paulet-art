@@ -1,5 +1,6 @@
+
 <h1 align="center">
-  Hey, I'm Paulet 👋🇰🇪
+  Hey, I'm [Your Name] 👋🇰🇪
 </h1>
 
 <h3 align="center">
@@ -14,11 +15,11 @@
 
 ## 🧭 About Me
 
-- 🔭 Currently building **fintech & product analytics portfolio projects**
+- 🔭 Currently building **data & analytics portfolio projects**
 - 🌍 Based in **Nairobi, Kenya** — open to **remote roles globally**
 - 💡 I sit at the intersection of **data engineering** and **visual storytelling** — most engineers don't visualise, most analysts don't engineer. I do both.
-- 🏦 Passionate about **fintech data** — grew up watching M-Pesa reshape how an entire country moves money
-- 📊 I believe data is only powerful when people **understand** it — that's what I build towards
+- 📊 I believe data is only powerful when people **understand** it — that's the gap I close
+- 🛠️ I work across the full data stack — from raw data ingestion to the dashboard on a decision-maker's screen
 - 🎯 Currently open to: **Data Analyst · Analytics Engineer · BI Analyst** roles
 
 ---
@@ -46,22 +47,22 @@
 
 ## 🚀 Featured Projects
 
-### 📱 Kenya Mobile Money Dashboard
-> End-to-end analytics pipeline built with dbt + Power BI visualising Kenya's mobile money trends using Central Bank of Kenya data.
+### 📊 Project One
+> Brief one-line description of what the project does and what problem it solves.
 
-`dbt` `Power BI` `SQL` `Python` · [View Project](#) <!-- replace # with your link -->
+`dbt` `Power BI` `SQL` `Python` · [View Project](#)
 
 ---
 
-### 📈 SaaS Product Performance Dashboard
-> Modelled and visualised core SaaS product metrics — DAU, MAU, churn, retention cohorts — from raw event data to executive-ready Tableau dashboards.
+### 📈 Project Two
+> Brief one-line description of what the project does and what problem it solves.
 
 `Tableau` `dbt` `SQL` `Python` · [View Project](#)
 
 ---
 
-### 🌍 African Fintech Investment Tracker
-> Interactive Streamlit app tracking African startup funding rounds (2019–2024) by country, sector, and deal size.
+### 🌍 Project Three
+> Brief one-line description of what the project does and what problem it solves.
 
 `Python` `Plotly` `Streamlit` · [Live App](#) · [View Project](#)
 
