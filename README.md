@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Data Analyst & Analytics Engineer · Nairobi, Kenya 🇰🇪 · Open to Remote
+  Data Analyst|Analytics Engineer|Business Intelligence Analyst |Business Analyst · Nairobi, Kenya 🇰🇪 · Open to Remote
 </h3>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 ## 👤 About Me
 
-Data Analyst and Analytics Engineer with hands-on experience across the full data stack — from data modelling and pipeline development to business intelligence dashboards and visual reporting.
+Analyst with hands-on experience across the full data stack — from data modelling and pipeline development to business intelligence dashboards and visual reporting.
 
 I specialise in transforming raw, complex data into clear, actionable insight. My background spans both engineering and visualisation, giving me an end-to-end perspective that most specialists lack.
 
