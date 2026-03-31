@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  Nairobi 🇰🇪 • Remote-ready • Building pipelines & dashboards
+  Nairobi 🇰🇪 • Building pipelines & dashboards
 </p>
 
 ---
