@@ -2,23 +2,6 @@
   Hi I'm Paulet
 </h1>
 
-<h3 align="center">
-  Data Analyst|Analytics Engineer|Business Intelligence Analyst |Business Analyst · Nairobi, Kenya 🇰🇪
-</h3>
-
-<p align="center">
-  <em>I build the pipelines. I design the dashboards. I tell the story behind the numbers.</em>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/paulet-wairagu/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:wanjirupaulet@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ## 👤 About Me
