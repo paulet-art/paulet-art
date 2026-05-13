@@ -32,5 +32,3 @@ I specialise in transforming raw, complex data into clear, actionable insight. M
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
 ---
-
-> *"Data is only powerful when people understand it — that's the gap I close."*
