@@ -1,12 +1,4 @@
-<h1 align="center">
-  Hi I'm Paulet
-</h1>
-
----
-
-## 👤 About Me
-
-Analyst with hands-on experience across the full data stack — from data modelling and pipeline development to business intelligence dashboards and visual reporting.
+Data & Analytics Engineer with hands-on experience across the full data stack — from data modelling and pipeline development to business intelligence dashboards and visual reporting.
 
 I specialise in transforming raw, complex data into clear, actionable insight. My background spans both engineering and visualisation, giving me an end-to-end perspective that most specialists lack.
 
