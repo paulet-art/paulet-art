@@ -2,7 +2,7 @@ Data & Analytics Engineer with hands-on experience across the full data stack �
 
 I specialise in transforming raw, complex data into clear, actionable insight. My background spans both engineering and visualisation, giving me an end-to-end perspective that most specialists lack.
 
-- 📍 Based in Nairobi, Kenya — available for **remote roles globally**
+- 📍 Based in Nairobi, Kenya 
 - 🎯 Open to: **Data Analyst · Analytics Engineer · BI Analyst**
 - 📜 Certified: **IBM Data Engineering Professional**
 
